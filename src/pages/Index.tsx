@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import TimeZoneSearch from '../components/TimeZoneSearch';
 import TimeZoneCard from '../components/TimeZoneCard';
 import { TIMEZONE_SUGGESTIONS } from '../data/timezones';
