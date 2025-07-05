@@ -59,7 +59,7 @@ const Index = () => {
     <div className="min-h-screen p-8 pt-12">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-medium text-center mb-1">WORLD TIME WINDOWS</h1>
-        <p className="text-sm text-gray-600 text-center mb-8">made by <a href="https://x.com/pau_wee_" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900">@pau_wee_</a></p>
+        <p className="text-sm text-gray-600 text-center mb-8">made by <a href="https://kato-isa-omoding.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900">@katoisa256</a></p>
         
         <TimeZoneSearch onAddLocation={handleAddLocation} />
         
